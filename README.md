@@ -182,4 +182,4 @@ For questions or collaborations, please open an issue on GitHub.
 
 **Project Status**: Active Development
 
-**Last Updated**: December 2024
+**Last Updated**: December 2025
